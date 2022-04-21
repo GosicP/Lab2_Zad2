@@ -1,7 +1,7 @@
 package revija;
 
 public class Kombinacija {
-
+	//PROBAJ SA ARRAYLISTOM
 	private Nosivo kombinacija[];
 	private int maksimum;
 	private int indeks=0;
